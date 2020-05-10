@@ -1,4 +1,4 @@
-package com.herokuapp.theinternet;
+package com.herokuapp.theinternet.base;
 
 import java.io.File;
 import java.io.IOException;
